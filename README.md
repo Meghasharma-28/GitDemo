@@ -1,9 +1,2 @@
 # GitDemo
-<html>
-    <head></head>
-    <body>
-        <h1>
-            Hello World!
-        </h1>
-    </body>
-</html>
+Task1: Create an index.html file printing Hello World!
